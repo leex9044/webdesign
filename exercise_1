@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My First Web Page</title>
+</head>
+<body>
+<h1>Hello World!</h1>
+
+<h2>A Place I Would Like to Visit</h2>
+<p>If I could visit any place in the world, I would visit Australia.
+    I've been wanting to travel to Australia since High School and have always dreamed of visiting the Australia Zoo.
+    Growing up, I watched a lot Animal Planet and have always wanted to go to the home of the Crocodile Hunter, Steve Erwin.
+</p>
+
+<h2>A Person I Admire</h2>
+<p>The person I admire the most is my dad. He went through a lot during his childhood
+    and made many sacrifices for our family. It's taken awhile for us to see eye to eye,
+    but he's taught me to work hard and play hard.
+</p>
+
+<h2>My Favorite Fruits</h2>
+<ul>
+    <li>Watermelon</li>
+    <li>Mango</li>
+    <li>Persimmon</li>
+    <li>Jack Fruit</li>
+    <li>Honeydew</li>
+</ul>
+
+<h2>Favorite Presidents</h2>
+<ul>
+    <li>Obama</li>
+    <li>Franklin D. Roosevelt</li>
+    <li>George Washington</li>
+    <li>Thomas Jefferson</li>
+    <li>Abraham Lincoln</li>
+</ul>
+</body>
+</html> 
